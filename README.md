@@ -15,6 +15,6 @@
 - Web
 - Nativa iOS
 ## Linguaggi e framework
-- Front-end Web: Angular // Da confermare
+- Front-end Web: Angular // Da confermare - Librerie: D3 (Grafici)
 - Front-end iOS: Swift, SwiftUI
 - Back-end: NodeJS // Da confermare
