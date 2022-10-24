@@ -1,3 +1,6 @@
 [submodule "MathRevealer-Web"]
 	path = MathRevealer-Web
 	url = https://github.com/Onnwen/MathRevealer-Web.git
+[submodule "MathRevealer-iOS"]
+	path = MathRevealer-iOS
+	url = https://github.com/Onnwen/MathRevealer-iOS.git
