@@ -1,0 +1,3 @@
+[submodule "MathRevealer-Web"]
+	path = MathRevealer-Web
+	url = https://github.com/Onnwen/MathRevealer-Web.git
